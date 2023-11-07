@@ -1,4 +1,4 @@
-![Dynamic Routing](1.png)
+![Dynamic Routing](1.jpg)
 
 # PENGERTIAN
 - Routing adalah sebuah proses untuk meneruskan paket-paket jaringan dari satu jaringan ke jaringan lainnya melalui sebuah internetwork. Routing juga dapat merujuk kepada sebuah metode penggabungan beberapa jaringan sehingga paket-paket data dapat hinggap dari satu jaringan ke jaringan selanjutnya. Untuk melakukan hal ini, digunakanlah sebuah perangkat jaringan yang disebut sebagai router. Router- router tersebut akan menerima paket-paket yang ditujukan ke jaringan di luar jaringan yang pertama, dan akan meneruskan paket yang ia terima kepada router lainnya hingga sampai kepada tujuannya. Routing protokol berbeda dengan router protokol. Routing protokol adalah komunikasi antara router. Routing protokol mengijinkan router untuk sharing informasi tentang jaringan dan koneksi antar router. Router menggunakan informasi ini untuk membangun dan memperbaiki tabel routingnya. Ada beberapa dynamic routing untuk IP.
