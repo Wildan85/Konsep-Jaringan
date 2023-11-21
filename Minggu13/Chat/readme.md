@@ -6,17 +6,16 @@
 ![Chat](4.jpg)
 
 # Source Code server.c
+
+```c
 #include <stdio.h>
 #include <stdlib.h>
-
 #include <netdb.h>
 #include <netinet/in.h>
-
 #include <string.h>
 #include <unistd.h>
 #include <stdbool.h>
 #include <time.h>
-
 void bzero(void *a, size_t n) {
     memset(a, 0, n);
 }
@@ -135,8 +134,12 @@ int main( int argc, char *argv[] ) {
         }
     }
 }
+```
+
 
 # Source code client.c
+```c
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -207,3 +210,4 @@ int main(int argc, char *argv[]) {
     }
     return 0;
 }
+```
