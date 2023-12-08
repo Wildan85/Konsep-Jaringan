@@ -1,3 +1,5 @@
+* Dosen Pengampu  
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
 - CARA MENEMUKAN GAMBAR DI HTTP_WITP_JPEG.CAP
 1. Buka file http_witp_jpegs.cap
 ![Find JPEG](1.png)
