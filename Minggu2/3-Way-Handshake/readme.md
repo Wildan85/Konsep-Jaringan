@@ -1,3 +1,5 @@
+* Dosen Pengampu  
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
 ![3 way handshaking](3 way.jpg)
 1. 3 way handshaking adalah metode yang digunakan dalam jaringan TCP/IP untuk membuat koneksi antara host/klien dan server lokal. Ini adalah metode tiga langkah yang dirancang untuk memungkinkan kedua ujung yang berkomunikasi untuk memulai dan menegosiasikan parameter koneksi soket TCP jaringan secara bersamaan sebelum data seperti HTTP dan SSH ditransmisikan. Beberapa koneksi soket TCP dapat ditransmisikan di kedua arah secara bersamaan.
 3 way handshaking arah juga dikenal sebagai jabat tangan TCP atau syn-syn-ack, dan mengharuskan klien dan server untuk bertukar paket (sinkronisasi) dan ACK (pengakuan) sebelum komunikasi data aktual dimulai. Bahkan, namanya berasal dari tiga pesan yang dikirimkan oleh TCP sebelum sesi antara kedua ujungnya dimulai.
