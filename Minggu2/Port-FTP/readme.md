@@ -1,3 +1,6 @@
+* Dosen Pengampu  
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
+
 ![Gambar TCP dan UDP](tcp&udp.png)
 Port dalam konteks komunikasi jaringan merujuk pada mekanisme yang digunakan oleh sistem operasi dan perangkat jaringan untuk mengidentifikasi aplikasi atau layanan tertentu yang berkomunikasi melalui jaringan. Port adalah alamat numerik yang digunakan untuk mengarahkan data ke aplikasi yang benar di dalam sebuah perangkat.
 Port dapat digunakan baik untuk protokol TCP (Transmission Control Protocol) maupun UDP (User Datagram Protocol) karena kedua protokol ini adalah bagian dari lapisan transport dalam model OSI (Open Systems Interconnection) dan memiliki perbedaan karakteristik yang membuat mereka cocok untuk situasi yang berbeda.
