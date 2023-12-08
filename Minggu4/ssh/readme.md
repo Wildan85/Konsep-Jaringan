@@ -1,3 +1,6 @@
+* Dosen Pengampu  
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
+
 ![SSH](ssh.png)
 1. Pengertian SSH(Secure Shell)
 SSH (Secure Shell) adalah protokol jaringan yang digunakan untuk mengakses dan mengelola perangkat jarak jauh dan komputer melalui jaringan yang tidak aman, seperti internet. Ini adalah cara yang aman untuk mengendalikan perangkat dan melakukan transfer data dengan mengenkripsi lalu lintas jaringan, sehingga melindungi kerahasiaan dan integritas informasi. SSH menyediakan lingkungan yang aman untuk menjalankan perintah, mengelola file, dan mengakses aplikasi jarak jauh.
