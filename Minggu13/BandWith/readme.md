@@ -1,3 +1,5 @@
+* Dosen Pengampu  
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
 # BANDWITH
 
 Bandwidth adalah istilah yang digunakan untuk mengukur seberapa banyak data yang dapat ditransfer melalui jaringan komunikasi dalam suatu periode waktu tertentu. Ini dapat merujuk pada sejumlah hal, tergantung pada konteksnya:
