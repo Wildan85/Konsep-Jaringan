@@ -1,3 +1,6 @@
+* Dosen Pengampu  
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
+
 Troughput merujuk pada jumlah data yang berhasil ditransfer antara dua perangkat dalam sebuah jaringan selama periode waktu tertentu. Ini adalah ukuran yang mengindikasikan seberapa efisien jaringan dalam mengirim data dari satu titik ke titik lain. Throughput diukur dalam unit bits per second(bps). 
 ![Contoh Throughput http](http.png)
 1. Tabel: Tabel ini seperti daftar yang berisi informasi. Di dalamnya, ada data tentang paket-paket yang dikirim melalui jaringan. Setiap paket memiliki tiga hal penting yang dicatat: Panjang Paket, Nomor Urutan, dan Nomor Pengakuan.
