@@ -1,5 +1,6 @@
 * Dosen Pengampu  
 Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
+
 1. Ping
 Perintah ping bekerja dengan cara mengirim paket ke alamat yang ditentukan, pengirim paket menunggu balasan dari alamat tersebut. Perjalanan paket dari mulai dikirim dan balik lagi ke pengirim memerlukan waktu. semakin cepat paket kembali ke pengirim, maka semakin bagus koneksi anatara pengirim dan tujuan. Bila melakukan ping ke 2 alamat tujuan yang berbeda dengan memakai jaringan yang sama bisa disimpulkan letak server dari 2 alamat tersebut
 ![Test ping di cmd](ping.png)
