@@ -1,3 +1,6 @@
+* Dosen Pengampu  
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
+
 # TRANSFORMASI HTTP VERSION
 ![Perbedaan HTTP 1.1 dan 2.0](http.png)
 # HTTP 0.9
