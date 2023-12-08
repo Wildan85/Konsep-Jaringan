@@ -1,3 +1,6 @@
+* Dosen Pengampu  
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
+
 # Konfigurasi Jaringan | 6 Subnet
 
 praktikum ini, kita akan menggunakan 1 Route, 6 Switch dan 6 PC pada alamat IP publik 12.0.0.0/8.
