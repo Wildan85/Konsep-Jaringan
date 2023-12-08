@@ -1,6 +1,7 @@
 * Dosen Pengampu  
 Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
 
+
 # Arsitektur jaringan kampus 
 desain dan struktur jaringan yang digunakan dalam lingkungan kampus atau universitas. Arsitektur ini mencakup infrastruktur jaringan yang menghubungkan berbagai bangunan, departemen, laboratorium, perpustakaan, ruang kelas, pusat data, dan area lainnya di dalam lingkungan kampus.
 
