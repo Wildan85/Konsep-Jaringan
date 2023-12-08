@@ -1,5 +1,6 @@
 * Dosen Pengampu  
 Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
+
 1. http.cap
 HTTP adalah singkatan dari Hypertext Transfer Protocol". Ini adalah protokol yang digunakan untuk mengirimkan data antara klien dan server World Wide Web. HTTP digunakan untuk mengatur cara permintaan dan respon data, terutama dalam konteks halaman web, tetapi juga digunakan dalam berbagai aplikasi berbasis web. 
 ![Http.cap](http.jpg)
