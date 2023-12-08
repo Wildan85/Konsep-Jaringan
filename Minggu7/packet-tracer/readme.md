@@ -1,3 +1,6 @@
+* Dosen Pengampu  
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
+
 - Pada praktikum kali ini, kita akan mengirim ping antar komputer dalam sebuah topologi komputer yang dibuat menggunakan Cisco Packet Tracer.
 ![Packet Tracer](1.png)
 - Setiap router memiliki dua antarmuka yang menghubungkan jaringan yang berbeda. 
