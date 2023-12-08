@@ -1,6 +1,7 @@
 * Dosen Pengampu  
 Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
 
+
 # Cara Kerja DNS dan Mail Server
 * DNS
 Cara kerja DNS server adalah salah satu hal yang penting untuk dipahami dalam dunia teknologi informasi. DNS server memiliki peran utama dalam mengonversikan nama domain ke alamat IP sehingga mempermudah pengguna untuk mengakses suatu situs web. Dalam hal ini, DNS server berfungsi sebagai mesin pencari atau mesin penerjemah nama domain menjadi alamat IP.
