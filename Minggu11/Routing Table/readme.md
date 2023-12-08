@@ -1,3 +1,5 @@
+* Dosen Pengampu  
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
 # 1. Ping Antar PC
 
 ![Cmd Kel 10](1.png)
